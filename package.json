@@ -2,6 +2,7 @@
   "workspaces": ["examples/*", "playgrounds/*", "site", "src", "test"],
   "private": true,
   "type": "module",
+  "version": "1.15.1",
   "scripts": {
     "bench": "vitest bench",
     "bench:ci": "CI=true vitest bench",
